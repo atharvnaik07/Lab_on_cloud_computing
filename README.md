@@ -79,7 +79,7 @@ The key goals of these practicals include:
 
 ## 📧 Contact
 
-For queries or feedback, reach out at [your-atharvnaik91@gmail.com](mailto:your-atharvnaik91@gmail.com). 
+For queries or feedback, reach out at [atharvnaik91@gmail.com](mailto:atharvnaik91@gmail.com). 
 
 ---
 
